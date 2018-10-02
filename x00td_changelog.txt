@@ -1,0 +1,19 @@
+Liquid Remix 10.0 20181001 Official for Asus Zenfone Max Pro M1
+
+- Initial Official Release
+- Set Google Camera as default camera
+- Added Liquid OTA Support
+- Added Smart Pixels
+- Added Gaming Mode
+- Added expanded desktop option in lounge
+- Added expanded desktop tile
+- Added screen stabilization
+- Added a toogle to show 4G instead of LTE on status bar
+- Some frameworks base bugfixes and updates
+- Launcher3 as default launcher
+- Powermenu scroll when more than 5 options are added to it
+- Enable DTS Eagle support
+- Fix doubletaptowake toggle from display settings (thanks to @say99)
+- Fix VoLTE
+- Kernel merged to upstream Linux 4.4.159
+- Other bugfixes and updates
