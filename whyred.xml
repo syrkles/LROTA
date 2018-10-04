@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Official>
+        <whyred>
+            <Filename>10.0.0-20181004-OFFICIAL-whyred.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for whyred">https://sourceforge.net/projects/liquidos/files/whyred/liquid_remix-10.0.0-20181004-OFFICIAL-whyred.zip/download</RomUrl>
+            <RomUrl
+                id="mirror"
+                title="LiquidRemix Mirror Link"
+                description="Download latest build for whyred from mirror">https://androidfilehost.com/?fid=1322778262904019749</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://raw.githubusercontent.com/LiquidRemix-Devices/LROTA/pie/whyred_changelog.txt</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+        <whyred>
+    </Official>
+</SlimOTA>
