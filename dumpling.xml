@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Weekly>
+    <Unofficial>
         <dumpling>
-            <Filename>10.0.0-201801007-WEEKLY-dumpling.zip</Filename>
+            <Filename>10.0.0-201801009-UNOFFICIAL-dumpling.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for dumpling">https://drive.google.com/open?id=1iw01ii9efY_ZUBZRRbxZe7lG8ahNiVPK</RomUrl>
+                description="Download latest build for dumpling">https://drive.google.com/open?id=1VjgEky1Ni5Srfdx3hovNKbILO_p-j4BS</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -16,5 +16,5 @@
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
         </dumpling>
-    </Weekly>
+    </Unofficial>
 </SlimOTA>
